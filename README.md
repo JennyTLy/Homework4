@@ -1,6 +1,12 @@
 # Homework4
 Web APIs: Code Quiz
 
+## Quiz Preview and Link
+
+![QuizPreview](https://user-images.githubusercontent.com/69165197/95664462-e7af6500-0afc-11eb-9e57-66d1c84c9731.png)
+
+https://jennytly.github.io/Homework4/index.html
+
 ## Your Task
 
 As you proceed in your journey to becoming a full-stack web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
@@ -79,7 +85,6 @@ This homework is graded based on the following criteria:
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
-https://jennytly.github.io/Homework4/index.html
 
 
 ## Review
