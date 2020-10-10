@@ -6,22 +6,22 @@ var questions = [{
 },
 {
     title: "What are the annual Halloween episodes known as?",
-    choices: ["Nightmare on Evergreen Terrace", "Treehouse of Horror", "D'oh of the Dead", "Springfield Scaries"],
+    choices: ["Nightmare on Evergreen Terrace", "D'oh of the Dead", "Springfield Scaries", "Treehouse of Horror"],
     answer: "Treehouse of Horror"
 },
 {
     title: " Which of the following is NOT a Bart Simpson phrase?",
-    choices: ["Ay, Caramba!", "Ha-Ha!", "Eat my shorts!", "Don't have a cow, man!"],
+    choices: ["Ay, Caramba!", "Eat my shorts!", "Ha-Ha!", "Don't have a cow, man!"],
     answer: "Ha-Ha!"
 },
 {
     title: "What is the name of Ned Flander's store at the Springfield Mall?",
-    choices: ["Hi-Diddly-Ho-Mart", "The Leftorium", "Bible Buddies", "Diddly Diddlies"],
+    choices: ["Hi-Diddly-Ho-Mart", "Bible Buddies", "Diddly Diddlies", "The Leftorium"],
     answer: "The Leftorium"
 },
 {
     title: "What kind of beer is usually served at Moe's Tavern?",
-    choices: ["Buzz Beer", "Butter Beer", " Duff Beer", "Springfield Suds"],
+    choices: ["Duff Beer", "Butter Beer", " Buzz Beer", "Springfield Suds"],
     answer: " Duff Beer"
 }
 ]
