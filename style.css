@@ -1,0 +1,63 @@
+
+/* navigation bar */
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#nav {
+    display: block;
+    background-image: url("https://images.wikia.com/simpsons/images/5/50/Wiki-background");
+    background-color: rgb(149, 199, 240);
+    display: inline-block;
+    width: 88vw;
+    border: 3px solid #f5f7a0;
+    border-radius: 8px;
+    margin: 6px;
+}
+
+/* main quiz section */
+
+body {
+    font-family: Georgia, serif;
+    background-image: url("https://images.wikia.com/simpsons/images/5/50/Wiki-background");
+    background-color: #cccfe2;
+}
+
+#quizBody {
+    text-align: center;
+    padding: 15vh;
+}
+
+h4 {
+    padding: 12px 10px 12px 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border: none;
+    background-color: #f5f7a0;
+    color: rgb(126, 123, 123);
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 20px;
+    font-family: Georgia, serif;
+    margin: 4px;
+}
+
+button:hover {
+    transition-duration: 0.5s;
+    background-color: #eba716;
+    color: black;
+}
+
+#quiz {
+    text-align: center;
+}
