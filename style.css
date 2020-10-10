@@ -45,10 +45,10 @@ button {
     background-color: #f5f7a0;
     color: rgb(126, 123, 123);
     border-radius: 5px;
-    padding: 10px 16px 10px 16px;
+    padding: 10px 12px 10px 12px;
     font-size: 20px;
     font-family: Georgia, serif;
-    margin: 4px;
+    margin: 20px;
 }
 
 button:hover {
