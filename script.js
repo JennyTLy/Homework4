@@ -22,7 +22,7 @@ var questions = [{
 {
     title: "What kind of beer is usually served at Moe's Tavern?",
     choices: ["Duff Beer", "Butter Beer", " Buzz Beer", "Springfield Suds"],
-    answer: " Duff Beer"
+    answer: "Duff Beer"
 }
 ]
 
