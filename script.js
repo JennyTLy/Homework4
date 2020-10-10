@@ -35,7 +35,7 @@ var timer;
 //starts the countdown timer once user clicks the 'start' button
 function start() {
 
-timeLeft = 75;
+timeLeft = 60;
 document.getElementById("timeLeft").innerHTML = timeLeft;
 
 timer = setInterval(function() {
@@ -117,7 +117,7 @@ document.getElementById("quizBody").innerHTML = quizContent;
 
 //deduct 15seconds from the timer if user chooses an incorrect answer
 function incorrect() {
-timeLeft -= 15; 
+timeLeft -= 10; 
 next();
 }
 
